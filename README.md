@@ -1,6 +1,7 @@
 # BrickGame v1.0 (Tetris)
 
 This repository contains **BrickGame v1.0**, a Tetris implementation developed in C using the C11 standard. The game features a modular architecture, separating the core game logic into a library and the user interface into a terminal-based GUI built with `ncurses`.
+
 ![](images/tetris-1.png)
 ## Table of Contents
 - [Features](#features)
